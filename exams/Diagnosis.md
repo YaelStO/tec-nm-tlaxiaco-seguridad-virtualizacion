@@ -2,7 +2,7 @@
 
 | Nombre: | Fecha: | Matrícula: |
 |---------|--------|------------|
-|         |        |            |
+| Yael de Jesus Santiago Ortiz       |  22-08-2024      |   21620147         |
 
 ## Instrucciones
 
@@ -13,26 +13,26 @@ Responde las siguientes preguntas de manera clara y concisa. Cada sección tiene
 Pregunta de Opción Múltiple:<br>
 Identifica cuáles de los siguientes elementos son componentes fundamentales de un sistema de red:<br>
 
-- [ ] Switch
-- [ ] Router
+- [X] Switch
+- [X] Router
 - [ ] Monitor
 - [ ] Cableado
 - [ ] CPU
-- [ ] Firewall
+- [X] Firewall
 
 Pregunta Abierta:<br>
 Explica la función de un router en una red y cómo se diferencia de un switch.<br>
-___Respuesta___
+El router es un dispsitivo que permite que se comparta la red de forma inalambrica mientras que el switch es a travez de cables
 
 Pregunta de Emparejamiento:<br>
 Relaciona los siguientes componentes de una red con su función principal:<br>
 
 | Componente                      | Función principal |
 |---------------------------------|-------------------|
-| [ ] Servidor                    | A) Protege la red de accesos no autorizados. |
-| [ ] Firewall                    | B) Facilita la conectividad inalámbrica. |
-| [ ] Punto de acceso inalámbrico | C) Transmite datos entre dispositivos de la red. |
-| [ ] Cable de par trenzado       | D) Proporciona recursos a los usuarios de la red. |
+| [D] Servidor                    | A) Protege la red de accesos no autorizados. |
+| [A] Firewall                    | B) Facilita la conectividad inalámbrica. |
+| [C] Punto de acceso inalámbrico | C) Transmite datos entre dispositivos de la red. |
+| [B] Cable de par trenzado       | D) Proporciona recursos a los usuarios de la red. |
 
 ## Sección 2: Protocolo de Conexión TCP/IP (20%)
 
@@ -40,10 +40,10 @@ Pregunta Verdadero/Falso:<br>
 TCP/IP es un protocolo que se utiliza exclusivamente para redes privadas, como las LANs.
 
 - [ ] Verdadero
-- [ ] Falso
+- [X] Falso
 
 Justifique su respuesta.<br>
-___Respuesta___
+Los protocolos pueden ser utilizados por redes publicas para el correcto manejo de los dispositivos conectados
 
 Pregunta Abierta:<br>
 Describe las diferencias clave entre TCP y UDP en términos de fiabilidad y uso.<br>
@@ -64,11 +64,10 @@ Pregunta de Selección Múltiple:<br>
 
 Pregunta de Desarrollo:<br>
 Explica la importancia de seguir normas y estándares de la industria al diseñar redes en una organización. Proporcione ejemplos de dos normas específicas.<br>
-___Respuesta___
+Segir as normas y estandares ayudara a que se probeche de mejor manera los recursos de la red y que las personas de su manenimiento no tengan problemas 
 
 Pregunta de Análisis de Caso:<br>
 Una empresa está planeando la expansión de su red. Describe cómo aplicarías las normas y estándares de la industria para garantizar la compatibilidad y el rendimiento.<br>
-___Respuesta___
 
 ## Sección 4: Sistemas Operativos (10%)
 
@@ -78,12 +77,12 @@ ___Respuesta___
 
 Pregunta Abierta:<br>
 Explica cómo se puede seleccionar un sistema operativo adecuado para un servidor en una organización.<br>
-___Respuesta___
+De acuerdo al uso de la red y sus aplicaciones
 
 Pregunta de Opción Múltiple:<br>
 ¿Cuál de los siguientes sistemas operativos es conocido por su estabilidad y seguridad en entornos de red?<br>
 
-- [ ] Windows Server
+- [ x] Windows Server
 - [ ] macOS
 - [ ] Linux
 - [ ] Android
@@ -96,7 +95,7 @@ ___Respuesta___
 
 Pregunta de Desarrollo:<br>
 Explica el impacto de no seguir normas y estándares oficiales en el diseño de una red. Proporciona ejemplos de posibles problemas.<br>
-___Respuesta___
+Deficiencia en el uso de las recursos
 
 ## Sección 6: Metodologías para el Análisis, Diseño e Instalación de Redes (10%)
 
@@ -113,16 +112,16 @@ ___Respuesta___
 Pregunta de Opción Múltiple:<br>
 ¿Cuál de las siguientes medidas es más efectiva para proteger una red de accesos no autorizados?<br>
 
-- [ ] Cortafuegos
-- [ ] Antivirus
-- [ ] Actualizaciones de software
+- [ x ] Cortafuegos
+- [ x ] Antivirus
+- [ x ] Actualizaciones de software
 - [ ] Contraseñas seguras
 
 Seleccione la respuesta correcta.
 
 Pregunta de Desarrollo:<br>
 Explica la importancia de implementar medidas de seguridad en una red y cómo estas pueden proteger la información confidencial de una organización.<br>
-___Respuesta___
+El no proteger la red puede hacer que intrusos de forma voluntaria se queden con informacion importante, o alenten elfuncionamiento de la red
 
 ## Sección 8: Resolución de Problemas en Redes (10%)
 
