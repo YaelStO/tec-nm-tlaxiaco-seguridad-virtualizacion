@@ -11,7 +11,7 @@ db_config = {
 }
 
 # Leer archivo CSV
-csv_file = 'customers-2000000.csv'  # Cambia esta ruta si el archivo está en otro lugar
+csv_file = 'D:\Documentos\TRABAJOS DEL ITT\7° Semestre\Seguridad y virtualizacion\customers-2000000.csv'  # Cambia esta ruta si el archivo está en otro lugar
 
 try:
     # Leer el archivo CSV con pandas
